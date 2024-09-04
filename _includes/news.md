@@ -1,8 +1,9 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Sep. 2024]<sup><span style="color:red"><strong>New</strong></span></sup></strong> Our paper, "Heterogeneous Parallel Acceleration for Edge Intelligence Systems: Challenges and Solutions", was accepted by IEEE Consumer Electronics Magazine! </li>
-<li><strong>[Sep. 2024]<sup><span style="color:red"><strong>New</strong></span></sup></strong> "FL-Joint: Joint Aligning Features and Labels in Federated Learning for Data Heterogeneity", was accepted by Complex & Intelligent System! Congratulations to Wenxin and other great coauthors. </li>
+<li><strong>[Sep. 2024]<sup><font color=red size=2>New</font></sup></strong> Our paper, "Heterogeneous Parallel Acceleration for Edge Intelligence Systems: Challenges and Solutions", is accepted by IEEE Consumer Electronics Magazine! </li>
+<li><strong>[Sep. 2024]<sup><font color=red size=2>New</font></sup></strong> Our paper, "FL-Joint: Joint Aligning Features and Labels in Federated Learning for Data Heterogeneity", is accepted by Complex & Intelligent System! Congratulations to Wenxin. </li>
+<li><strong>[Aug. 2024]</strong> Our paper, "Mobile Generative AI: Opportunities and Challenges", is accepted IEEE Wireless Communications! Congratulations to Ye. </li>
 
 <li><strong>[Apr. 2024]</strong> I will serve as an Area Chair of <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> and <a href="https://2024.acmmm.org/">ACM MM 2024</a>.</li>
 <li><strong>[Jan. 2024]</strong> Our paper about <a href="https://arxiv.org/pdf/2306.08103.pdf">diffusion models</a> is accepted to <a href="https://iclr.cc/Conferences/2024/">ICLR 2024</a>.</li>
