@@ -1,15 +1,15 @@
 # Basic Information 
 title: Jinrui Zhang
-position: Assistant Professor
-affiliation: University of Illinois Urbana-C
-affiliation_link: https://www.illinois.edu/
+position: Postdoctoral Researcher
+affiliation: Tsinghua University
+affiliation_link: https://www.cs.tsinghua.edu.cn/
 affiliation_logo: ./assets/img/illinois.svg
-email: lyy (at) illinois.edu
+email: jinruizhang (at) mail.tsinghua.edu.cn
 
 # Search Engine Optimization (SEO)
 keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
 canonical: https://yaoyaoliu.web.illinois.edu/
-description: Yaoyao Liu is an assistant professor at UIUC. His research lies in meta-learning, incremental learning, and image generation.
+description: Jinrui Zhang is a postdoctoral researcher at Tsinghua University. His research lies in Internet-of-Things, edge computing, embedded AI.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: true
@@ -19,10 +19,10 @@ enable_last_update: false
 
 # Links
 link_type: icon #text/icon
-google_scholar: https://scholar.google.com/citations?user=Qi2PSmEAAAAJ
-github_link: https://github.com/yaoyao-liu/
-linkedin: https://www.linkedin.com/in/liuyaoyao/
-twitter: https://twitter.com/YaoyaoLiu1/
+google_scholar: https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F5MvoFmLVLXZMSFzvwEBIwAgihn9GhFtv6ehrFpi2HR71CIRY2g-5Qb79dTN6iXSI4U-Bt7siFW9-Su20JJtvFSsfXpzHYzf3MlAzNEc2tCvlAHC7k&user=u3HAVnkAAAAJ"
+github_link: https://github.com/zhangjinrui1992
+linkedin: https://www.linkedin.com/in/zhang-jinrui-147357192/
+#twitter: https://twitter.com/YaoyaoLiu1/
 
 # Images 
 avatar: https://img.yliu.me/avatar.jpg

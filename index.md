@@ -6,13 +6,17 @@ layout: homepage
 
 <h2 style="margin: 80px 0px 10px;"></h2>
 
-I am an incoming Assistant Professor in the [School of Information Sciences](https://ischool.illinois.edu/) at the [Tsinghua University](https://www.illinois.edu/).
 
-My research lies at the intersection of **computer vision** and **machine learning** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **continual learning**, **few-shot learning**, **semi-supervised learning**, **generative models**, **3D geometry models**, and **medical imaging**.
 
-Previously, I completed my Ph.D. in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/) and my B.S. in Electronic Information Engineering at [Tianjin University](http://www.tju.edu.cn/english/index.htm). I also spent time at [Johns Hopkins University](https://www.jhu.edu), [University of Oxford](https://www.ox.ac.uk/), and [National University of Singapore](https://www.comp.nus.edu.sg/). My biography is [here](./biography.html).
+I am currently a postdoctoral researcher advised by [Prof. Ju Ren](https://juren1987.github.io/) in the Department of Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/). 
 
+My research lies at the intersection of **computer vision** and **deep learning system**. My research interests include **On-device and edge intelligence**, **Optimizations for resource-constrained devices**, and **computer vision**.
+
+Previously, I received my B.Sc., M.Sc., Ph.D. degrees all in computer science, from [Central South University](https://www.csu.edu.cn/), China, in 2016, 2018 and 2023, co-advised by [Prof. Yaoxue Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1059/4004.htm") and [Prof. Deyu Zhang](https://deyujonney.github.io/deyu/). I was a Visiting PhD Student at [HCS Lab](https://hcs.snu.ac.kr/), Seoul National University in 2022-2023, working with [Prof. Youngki Lee](http://youngkilee.blogspot.com/). I also joined HEX group at Microsoft Research Asia from Sept. 2019 to Mar. 2020 and Institute for AI Industry Research(AIR), Tsinghua University from Aug. 2021 to Apr. 2022 as a research intern, respectively, mentored by [Prof. Yunxin Liu](https://yunxinliu.github.io/). My resume is here.
+
+<!--
 <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am actively looking for self-motivated Ph.D. students with interests in computer vision and machine learning. If you are interested, please send me an email.</strong></strong>
+-->
 
 {% include_relative _includes/news.md %}
 
