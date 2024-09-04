@@ -1,7 +1,7 @@
 main:
 
   - title: "Heterogeneous Parallel Acceleration for Edge Intelligence Systems: Challenges and Solutions"
-    authors:  <u><strong>Jinrui Zhang</strong></u>, Congying Zhou, Huan Yang, Deyu Zhang, Ju Ren, Yaoxue Zhang.
+    authors:  <strong>Jinrui Zhang</strong>, Congying Zhou, Huan Yang, Deyu Zhang, Ju Ren, Yaoxue Zhang.
     conference_short: MCE
     conference: IEEE Consumer Electronics Magazine(<span style="color:red">JCR Q1</span>), 2024.
     pdf: none
@@ -11,7 +11,7 @@ main:
     notes: to appear
     
   - title: "FL-Joint: Joint Aligning Features and Labels in Federated Learning for Data Heterogeneity"
-    authors: Wenxin Chen,  <u><strong>Jinrui Zhang</strong>(corresponding author)</strong></u>, Deyu Zhang.
+    authors: Wenxin Chen,  <strong>Jinrui Zhang</strong>(corresponding author)</strong>, Deyu Zhang.
     conference_short: Complex & Intelligent System
     conference: Complex & Intelligent System(<span style="color:red">JCR Q1</span>), 2024.
     pdf: none
@@ -21,7 +21,7 @@ main:
     notes: to appear
   
   - title: "Mobile Generative AI: Opportunities and Challenges"
-    authors: Ye Zhang, <u><strong>Jinrui Zhang</strong>(corresponding author)</strong></u>, Sheng Yue, Wei Lu, Ju Ren, Xuemin(Sherman) Shen.
+    authors: Ye Zhang, <strong>Jinrui Zhang</strong>(corresponding author)</strong>, Sheng Yue, Wei Lu, Ju Ren, Xuemin(Sherman) Shen.
     #conference_short: Wireless
     conference: IEEE Wireless Communications(<span style="color:red">JCR Q1</span>), 2024
     conference_short: Wireless Communications
@@ -31,7 +31,7 @@ main:
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/AGI.png
 
   - title: "MultiCounter: Multiple Action Agnostic Repetition Counting in Untrimmed Videos"
-    authors: Yin Tang, Wei Luo, <u><strong>Jinrui Zhang</strong></u>, Wei Huang, Ruihai Jing, Deyu Zhang.
+    authors: Yin Tang, Wei Luo, <strong>Jinrui Zhang</strong>, Wei Huang, Ruihai Jing, Deyu Zhang.
     #conference_short: Wireless
     conference: The 27th European Conference on Artificial Intelligence(<span style="color:red">CORE A</span>, <span style="color:red">CCF B</span>)
     conference_short: ECAI
@@ -41,7 +41,7 @@ main:
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/MultiCounter.png
 
   - title: "MBSeg: Real-Time Contour-Based Method Instance Segmentation for Egocentric Vision"
-    authors: Wei Luo, Deyu Zhang, <u><strong>Jinrui Zhang</strong></u>, Bangwen He, Wang Sun, Huan Yang, Ju Ren.
+    authors: Wei Luo, Deyu Zhang, <strong>Jinrui Zhang</strong>, Bangwen He, Wang Sun, Huan Yang, Ju Ren.
     #conference_short: Wireless
     conference: IEEE Internet of Things Journal(<span style="color:red">JCR Q1</span>)
     conference_short: IoT-J
@@ -51,7 +51,7 @@ main:
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/MBSeg.png
 
   - title: "HiMoDepth: Efficient Training-free High-resolution On-device Depth Perception"
-    authors:<u><strong>Jinrui Zhang</strong></u>, Huan Yang, Ju Ren, Deyu Zhang, Bangwen He, Youngki Lee, Ting Cao, Yuanchun Li, Yaoxue Zhang, and Yunxin Liu.
+    authors:<strong>Jinrui Zhang</strong>, Huan Yang, Ju Ren, Deyu Zhang, Bangwen He, Youngki Lee, Ting Cao, Yuanchun Li, Yaoxue Zhang, and Yunxin Liu.
     #conference_short: Wireless
     conference: IEEE Transactions on Mobile Computing (<span style="color:red">CCF A</span>)
     conference_short: TMC
@@ -61,7 +61,7 @@ main:
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/HiMoDepth.png
 
   - title: "Ego3DPose: Capturing 3D Cues from Binocular Egocentric Views"
-    authors: Taeho Kang, Kyungjin Lee, <u><strong>Jinrui Zhang</strong></u>,Youngki Lee.
+    authors: Taeho Kang, Kyungjin Lee, <strong>Jinrui Zhang</strong>,Youngki Lee.
     #conference_short: Wireless
     conference: SIGGRAPH Asia 2023 (<span style="color:red">CORE A*</span>, <span style="color:red">CCF A</span>)
     conference_short: SA'23
@@ -71,7 +71,7 @@ main:
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/Ego3DPose.png
 
   - title: "MobiDepth: Real-Time Depth Estimation Using On-Device Dual Cameras"
-    authors: <u><strong>Jinrui Zhang</strong></u>, Huan Yang, Ju Ren, Deyu Zhang, Bangwen He, Ting Cao, Yuanchun Li, Yaoxue Zhang, and Yunxin Liu.
+    authors: <strong>Jinrui Zhang</strong>, Huan Yang, Ju Ren, Deyu Zhang, Bangwen He, Ting Cao, Yuanchun Li, Yaoxue Zhang, and Yunxin Liu.
     conference: The 28th International Conference on Mobile Computing and Networking(MobiCom) (<span style="color:red">CORE A*</span>, <span style="color:red">CCF A</span>)
     conference_short: MobiCom
     pdf: https://dl.acm.org/doi/abs/10.1145/3495243.3560517
@@ -80,7 +80,7 @@ main:
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/MobiDepth.png
 
  - title: "MVPose: Realtime Multi-Person Pose Estimation Using Motion Vector on Mobile Devices"
-    authors: <u><strong>Jinrui Zhang</strong></u>, Deyu Zhang, Huan Yang, Yunxin Liu, Ju Ren, Xiaohui Xu, Fucheng Jia, and Yaoxue Zhang.
+    authors: <strong>Jinrui Zhang</strong>, Deyu Zhang, Huan Yang, Yunxin Liu, Ju Ren, Xiaohui Xu, Fucheng Jia, and Yaoxue Zhang.
     conference: IEEE Transactions on Mobile Computing (<span style="color:red">CCF A</span>)
     conference_short: TMC
     pdf: https://ieeexplore.ieee.org/abstract/document/9673682
