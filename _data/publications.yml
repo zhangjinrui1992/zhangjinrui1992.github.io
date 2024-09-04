@@ -7,7 +7,7 @@ main:
     pdf: none
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: none
-    image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/blob/main/_data/image/CEM.png
+    image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/CEM.png
     notes: to appear
     
   - title: "FL-Joint: Joint Aligning Features and Labels in Federated Learning for Data Heterogeneity"
@@ -17,7 +17,7 @@ main:
     pdf: none
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: none
-    image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/blob/main/_data/image/FL_Joint.png
+    image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/FL_Joint.png
     notes: to appear
   
   - title: "Mobile Generative AI: Opportunities and Challenges"
@@ -28,6 +28,7 @@ main:
     pdf: https://ieeexplore.ieee.org/abstract/document/10628027
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:dkNnJ4I3ElkJ:scholar.google.com/&output=citation&scisdr=ClFqDhxmEKyvq21LlcU:AFWwaeYAAAAAZthNjcU2Y1rmPGBVyPmqfIX-hAY&scisig=AFWwaeYAAAAAZthNjcSnfTM6_oGRomI2CPt4aVw&scisf=4&ct=citation&cd=-1&hl=zh-CN
+<<<<<<< HEAD
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/blob/main/_data/image/AGI.png
 
     - title: "MultiCounter: Multiple Action Agnostic Repetition Counting in Untrimmed Videos"
@@ -40,3 +41,7 @@ main:
     bibtex: none
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/blob/main/_data/image/AGI.png
     
+=======
+    image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/AGI.png
+    
+>>>>>>> d95b07b54d8e5934bb1af931434471ff2a415419
