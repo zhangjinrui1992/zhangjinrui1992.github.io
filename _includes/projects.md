@@ -4,15 +4,15 @@
 
 <ul>
   <li>
-    Head Teaching Assistant, <a href="https://cms.sic.saarland/hlcvss22/">High-Level Computer Vision</a> at <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/teaching/courses-1">Max Planck Institutes</a>, 2022
+    <strong>Project Host</strong>, National Natural Science Foundation of China (NSFC) Young Scientist Fund, "Research on Key Technologies of Real-time Deep Perception Adaptive to Edge-side Information Fusion", 2025.01-2027.12.
   </li>
   <li>
-    Student Mentor, <a href="https://sites.google.com/view/cvpr-academy/">CVPR Academy</a> at <a href="https://cvpr2022.thecvf.com/">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</a>, 2022
+    <strong>Project Leader</strong>, Tsinghua University - Honor Technology Cooperative Development Project, "Research on Key Technologies for Atomic Scene Recognition and Optimization", 2024.10-2025.09.
   </li>
   <li>
-    Teaching Assistant, <a href="https://cms.sic.saarland/hlcvss21/">High-Level Computer Vision</a> at <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/teaching/courses-1">Max Planck Institute</a>, 2021
+    Core Participants of the Project, National Natural Science Foundation of China, "Research on Performance Optimization of Computing Migration in Edge Computing", 2022.01-2025.12.
   </li>
   <li>
-    Teaching Assistant, <a href="">Digital Image Processing</a> at <a href="http://www.tju.edu.cn/english/index.htm/">Tianjin University</a>, 2017
+    Core Participants of the Project,  The key Program Natural Science Foundation of Hunan Province,China, "Research on Key Technologies and Applications of Intelligent Perception and Information Processing under All-Weather Multi-Tasking Conditions", 2022.01-2024.12.
   </li>
 </ul>
