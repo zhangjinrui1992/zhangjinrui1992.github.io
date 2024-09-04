@@ -1,11 +1,9 @@
 <h2 style="margin: 60px 0px 10px;">Contact</h2>
 
-<p><strong>Address:</strong> <a href="https://maps.app.goo.gl/cd82WkZw7QsZ4KLw8">501 E. Daniel St., Champaign, IL 61820-6211</a>
+<p><strong>Address:</strong> <a href="https://maps.app.goo.gl/WpiFuAgFpjMsLqfG8"> Tsinghua University, Beijing, 100084, China </a>
 <br />
-<!--
-<strong>Office Location:</strong> Malone Hall 248
+
+<strong>Office Location:</strong> FIT Building 3503
 <br />
--->
-<strong>Email:</strong> <email>lyy (at) illinois.edu</email>
-<br />
-<strong>Phone:</strong> (857) 209-8688</p>
+
+<strong>Email:</strong> <email>jinruizhang (at) mail.tsinghua.edu.cn</email> </p>
