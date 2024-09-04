@@ -5,10 +5,10 @@ main:
     right: true 
 
   - title: "Awards"
-    url: ./talks.html
+    url: ./awards.html
 
   - title: "Projects"
-    url: ./teaching.html
+    url: ./projects.html
 
   - title: "Publications"
     url: ./publications.html
