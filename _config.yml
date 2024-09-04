@@ -8,7 +8,7 @@ email: jinruizhang (at) mail.tsinghua.edu.cn
 
 # Search Engine Optimization (SEO)
 keywords: jinrui zhang, zhang jinrui, jinruizhang, zhangjinrui
-canonical: https://yaoyaoliu.web.illinois.edu/
+canonical: https://zjr.eis.mobi/
 description: Jinrui Zhang is a postdoctoral researcher at Tsinghua University. His research lies in Internet-of-Things, edge computing, embedded AI.
 
 # The option is used to enable the Johns Hopkins template.
@@ -25,9 +25,9 @@ linkedin: https://www.linkedin.com/in/zhang-jinrui-147357192/
 #twitter: https://twitter.com/YaoyaoLiu1/
 
 # Images 
-avatar: https://img.yliu.me/avatar.jpg
-favicon: ./assets/img/favicon.ico
-favicon_dark: ./assets/img/favicon.ico
+avatar: ./assets/img/zjr.png
+#favicon: ./assets/img/favicon.ico
+#favicon_dark: ./assets/img/favicon.ico
 
 # Footnotes
 #footnote: Feel free to use my website's source code.
@@ -36,7 +36,7 @@ favicon_dark: ./assets/img/favicon.ico
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-#clustrmaps_id: CJD8XwsJhSyQ6sbsU-Gw0cNcUlbah7KW3xvHN2QlwW0
+clustrmaps_id: KuVvcKrCR85p8hLxZIjcQBNa2wFlHXwpNpa1YN0AgWw
 
 # The following files will be removed from the generated website.
 exclude:
