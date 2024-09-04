@@ -7,7 +7,7 @@ main:
     pdf: none
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: none
-    image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/blob/main/_data/image/CEM.png
+    image: ./image/CEM.png
     notes: to appear
     
   - title: "FL-Joint: Joint Aligning Features and Labels in Federated Learning for Data Heterogeneity"
