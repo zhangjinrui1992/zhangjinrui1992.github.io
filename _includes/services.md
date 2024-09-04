@@ -6,13 +6,13 @@
 
 <ul style="margin:0 0 5px;">
   <li>IEEE International Conference on Computer Communications (INFOCOM)</li>
-  <li>The 10 th International Conference on Big Data Computing and Communications (BigCom)</li>
+  <li>The 10th International Conference on Big Data Computing and Communications (BigCom)</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://dl.acm.org/journal/imwut"><autocolor> ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)</autocolor></a></li>
-  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755"><autocolor>IEEE Transactions on Mobile Computing (TMC)</autocolor></a></li>
-  <li><a href="https://ieee-iotj.org/"><autocolor>IEEE Internet of Things Journal (IoT-J)</autocolor></a></li>
+  <li><a href="https://dl.acm.org/journal/imwut"> ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)</a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755">IEEE Transactions on Mobile Computing (TMC)</a></li>
+  <li><a href="https://ieee-iotj.org/">IEEE Internet of Things Journal (IoT-J)</a></li>
 </ul>
