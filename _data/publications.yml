@@ -1,9 +1,9 @@
 main:
 
   - title: "Heterogeneous Parallel Acceleration for Edge Intelligence Systems: Challenges and Solutions"
-    authors: Jinrui Zhang, Congying Zhou, Huan Yang, Deyu Zhang, Ju Ren, Yaoxue Zhang.
+    authors: <strong>Jinrui Zhang</strong>, Congying Zhou, Huan Yang, Deyu Zhang, Ju Ren, Yaoxue Zhang.
     conference_short: IEEE MCE
-    conference: IEEE Consumer Electronics Magazine(JCR Q1), 2024.
+    conference: IEEE Consumer Electronics Magazine(<span style="color:red">JCR Q1</span>), 2024.
     pdf: none
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: none
@@ -13,7 +13,7 @@ main:
   - title: "FL-Joint: Joint Aligning Features and Labels in Federated Learning for Data Heterogeneity"
     authors: Wenxin Chen, <strong>Jinrui Zhang(corresponding author)</strong>, Deyu Zhang.
     conference_short: Complex & Intelligent System
-    conference: Complex & Intelligent System(JCR Q1), 2024.
+    conference: Complex & Intelligent System(<span style="color:red">JCR Q1</span>), 2024.
     pdf: none
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: none
@@ -23,17 +23,17 @@ main:
   - title: "Mobile Generative AI: Opportunities and Challenges"
     authors: Ye Zhang, <strong>Jinrui Zhang(corresponding author)</strong>, Sheng Yue, Wei Lu, Ju Ren, Xuemin(Sherman) Shen.
     #conference_short: Wireless
-    conference: IEEE Wireless Communications(JCR Q1), 2024
+    conference: IEEE Wireless Communications(<span style="color:red">JCR Q1</span>), 2024
     conference_short: IEEE Wireless Communications
     pdf: https://ieeexplore.ieee.org/abstract/document/10628027
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:dkNnJ4I3ElkJ:scholar.google.com/&output=citation&scisdr=ClFqDhxmEKyvq21LlcU:AFWwaeYAAAAAZthNjcU2Y1rmPGBVyPmqfIX-hAY&scisig=AFWwaeYAAAAAZthNjcSnfTM6_oGRomI2CPt4aVw&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/AGI.png
 
-    - title: "MultiCounter: Multiple Action Agnostic Repetition Counting in Untrimmed Videos"
+  - title: "MultiCounter: Multiple Action Agnostic Repetition Counting in Untrimmed Videos"
     authors: Yin Tang, Wei Luo, <strong>Jinrui Zhang</strong>, Wei Huang, Ruihai Jing, Deyu Zhang.
     #conference_short: Wireless
-    conference: The 27th European Conference on Artificial Intelligence(CORE A, CCF B)
+    conference: The 27th European Conference on Artificial Intelligence(<span style="color:red">CORE A</span>, <span style="color:red">CCF B</span>)
     conference_short: ECAI
     pdf: https://www.ecai2024.eu/programme/accepted-papers
     #code: https://github.com/Fischer-Tom/iNeMo
