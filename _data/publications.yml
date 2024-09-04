@@ -11,7 +11,7 @@ main:
     notes: to appear
     
   - title: "FL-Joint: Joint Aligning Features and Labels in Federated Learning for Data Heterogeneity"
-    authors: Wenxin Chen,  <strong><u>Jinrui Zhang</u></strong>(corresponding author)</strong>, Deyu Zhang.
+    authors: Wenxin Chen,  <strong><u>Jinrui Zhang</u>(corresponding author)</strong>, Deyu Zhang.
     conference_short: Complex & Intelligent System
     conference: Complex & Intelligent System(<span style="color:red">JCR Q1</span>), 2024.
     pdf: none
@@ -21,7 +21,7 @@ main:
     notes: to appear
   
   - title: "Mobile Generative AI: Opportunities and Challenges"
-    authors: Ye Zhang, <strong><u>Jinrui Zhang</u></strong>(corresponding author)</strong>, Sheng Yue, Wei Lu, Ju Ren, Xuemin(Sherman) Shen.
+    authors: Ye Zhang, <strong><u>Jinrui Zhang</u>(corresponding author)</strong>, Sheng Yue, Wei Lu, Ju Ren, Xuemin(Sherman) Shen.
     #conference_short: Wireless
     conference: IEEE Wireless Communications(<span style="color:red">JCR Q1</span>), 2024
     conference_short: Wireless Communications
