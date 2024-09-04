@@ -79,7 +79,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:U7XQp_zRCn8J:scholar.google.com/&output=citation&scisdr=ClFqDhxmEKyvq21xqys:AFWwaeYAAAAAZth3syumaTqwcPHe35U5O--wuEo&scisig=AFWwaeYAAAAAZth3s02PnOlO_kLQDzWNvu9kS44&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/MobiDepth.png
 
- - title: "MVPose: Realtime Multi-Person Pose Estimation Using Motion Vector on Mobile Devices"
+  - title: "MVPose: Realtime Multi-Person Pose Estimation Using Motion Vector on Mobile Devices"
     authors: <strong>Jinrui Zhang</strong>, Deyu Zhang, Huan Yang, Yunxin Liu, Ju Ren, Xiaohui Xu, Fucheng Jia, and Yaoxue Zhang.
     conference: IEEE Transactions on Mobile Computing (<span style="color:red">CCF A</span>)
     conference_short: TMC
