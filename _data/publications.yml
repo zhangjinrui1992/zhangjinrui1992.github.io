@@ -11,7 +11,7 @@ main:
     notes: to appear
     
   - title: "FL-Joint: Joint Aligning Features and Labels in Federated Learning for Data Heterogeneity"
-    authors: Wenxin Chen, <strong>Jinrui Zhang*</strong>, Deyu Zhang.
+    authors: Wenxin Chen, <strong>Jinrui Zhang(corresponding author)</strong>, Deyu Zhang.
     conference_short: C&I S
     conference: Complex & Intelligent System(JCR Q1), 2024.
     pdf: 
