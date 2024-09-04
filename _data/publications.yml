@@ -2,7 +2,7 @@ main:
 
   - title: "Heterogeneous Parallel Acceleration for Edge Intelligence Systems: Challenges and Solutions"
     authors: <strong>Jinrui Zhang</strong>, Congying Zhou, Huan Yang, Deyu Zhang, Ju Ren, Yaoxue Zhang.
-    conference_short: IEEE MCE
+    conference_short: MCE
     conference: IEEE Consumer Electronics Magazine(<span style="color:red">JCR Q1</span>), 2024.
     pdf: none
     #code: https://github.com/Fischer-Tom/iNeMo
@@ -24,7 +24,7 @@ main:
     authors: Ye Zhang, <strong>Jinrui Zhang(corresponding author)</strong>, Sheng Yue, Wei Lu, Ju Ren, Xuemin(Sherman) Shen.
     #conference_short: Wireless
     conference: IEEE Wireless Communications(<span style="color:red">JCR Q1</span>), 2024
-    conference_short: IEEE Wireless Communications
+    conference_short: Wireless Communications
     pdf: https://ieeexplore.ieee.org/abstract/document/10628027
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:dkNnJ4I3ElkJ:scholar.google.com/&output=citation&scisdr=ClFqDhxmEKyvq21LlcU:AFWwaeYAAAAAZthNjcU2Y1rmPGBVyPmqfIX-hAY&scisig=AFWwaeYAAAAAZthNjcSnfTM6_oGRomI2CPt4aVw&scisf=4&ct=citation&cd=-1&hl=zh-CN
@@ -44,9 +44,40 @@ main:
     authors: Wei Luo, Deyu Zhang, <strong>Jinrui Zhang</strong>, Bangwen He, Wang Sun, Huan Yang, Ju Ren.
     #conference_short: Wireless
     conference: IEEE Internet of Things Journal(<span style="color:red">JCR Q1</span>)
-    conference_short: IEEE IoTJ
+    conference_short: IoT-J
     pdf: https://ieeexplore.ieee.org/document/10474095
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:8eiwSzUVsFIJ:scholar.google.com/&output=citation&scisdr=ClFqDhxmEKyvq210gPw:AFWwaeYAAAAAZthymPwoD2Bx-qA5udGtChPNffk&scisig=AFWwaeYAAAAAZthymFiDDnJtAd2OUJb8ozT48vM&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/MBSeg.png
+
+  - title: "HiMoDepth: Efficient Training-free High-resolution On-device Depth Perception"
+    authors: <strong>Jinrui Zhang</strong>, Huan Yang, Ju Ren, Deyu Zhang, Bangwen He, Youngki Lee, Ting Cao, Yuanchun Li, Yaoxue Zhang, and Yunxin Liu.
+    #conference_short: Wireless
+    conference: IEEE Transactions on Mobile Computing (<span style="color:red">CCF A</span>)
+    conference_short: TMC
+    pdf: https://ieeexplore.ieee.org/abstract/document/10178038
+    #code: https://github.com/Fischer-Tom/iNeMo
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:VSNsPINN_fUJ:scholar.google.com/&output=citation&scisdr=ClFqDhxmEKyvq21wK-I:AFWwaeYAAAAAZth2M-I30RVwyq5pYSfw_FKow6Y&scisig=AFWwaeYAAAAAZth2M95eJwMZHXIaPXhX0mrt7SA&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/HiMoDepth.png
+
+  - title: "Ego3DPose: Capturing 3D Cues from Binocular Egocentric Views"
+    authors: Taeho Kang, Kyungjin Lee, <strong>Jinrui Zhang</strong>,Youngki Lee.
+    #conference_short: Wireless
+    conference: SIGGRAPH Asia 2023 (<span style="color:red">CORE A*</span>, <span style="color:red">CCF A</span>)
+    conference_short: SA'23
+    pdf: https://dl.acm.org/doi/abs/10.1145/3610548.3618147
+    #code: https://github.com/Fischer-Tom/iNeMo
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:qt_IY2i-y-QJ:scholar.google.com/&output=citation&scisdr=ClFqDhxmEKyvq21zIzw:AFWwaeYAAAAAZth1OzypqWnSxzDLAFirra08gHQ&scisig=AFWwaeYAAAAAZth1OyBL_CTL4BzhD2q6O2M6tZU&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/Ego3DPose.png
+
+  - title: "MobiDepth: Real-Time Depth Estimation Using On-Device Dual Cameras"
+    authors: <strong>Jinrui Zhang</strong>, Huan Yang, Ju Ren, Deyu Zhang, Bangwen He, Ting Cao, Yuanchun Li, Yaoxue Zhang, and Yunxin Liu.
+    conference: The 28th International Conference on Mobile Computing and Networking (<span style="color:red">CORE A*</span>, <span style="color:red">CCF A</span>)
+    conference_short: MobiCom
+    pdf: https://dl.acm.org/doi/abs/10.1145/3495243.3560517
+    #code: https://github.com/Fischer-Tom/iNeMo
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:U7XQp_zRCn8J:scholar.google.com/&output=citation&scisdr=ClFqDhxmEKyvq21xqys:AFWwaeYAAAAAZth3syumaTqwcPHe35U5O--wuEo&scisig=AFWwaeYAAAAAZth3s02PnOlO_kLQDzWNvu9kS44&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/MobiDepth.png
+
+
     
