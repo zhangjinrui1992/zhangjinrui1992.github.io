@@ -21,12 +21,22 @@ main:
     notes: to appear
   
   - title: "Mobile Generative AI: Opportunities and Challenges"
-    authors: Ye Zhang, <strong>Jinrui Zhang*</strong>, Sheng Yue, Wei Lu, Ju Ren, Xuemin(Sherman) Shen.
+    authors: Ye Zhang, <strong>Jinrui Zhang(corresponding author)</strong>, Sheng Yue, Wei Lu, Ju Ren, Xuemin(Sherman) Shen.
     #conference_short: Wireless
     conference: IEEE Wireless Communications(JCR Q1), 2024
     conference_short: IEEE Wireless Communications
     pdf: https://ieeexplore.ieee.org/abstract/document/10628027
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:dkNnJ4I3ElkJ:scholar.google.com/&output=citation&scisdr=ClFqDhxmEKyvq21LlcU:AFWwaeYAAAAAZthNjcU2Y1rmPGBVyPmqfIX-hAY&scisig=AFWwaeYAAAAAZthNjcSnfTM6_oGRomI2CPt4aVw&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/blob/main/_data/image/AGI.png
+
+    - title: "MultiCounter: Multiple Action Agnostic Repetition Counting in Untrimmed Videos"
+    authors: Yin Tang, Wei Luo, <strong>Jinrui Zhang</strong>, Wei Huang, Ruihai Jing, Deyu Zhang.
+    #conference_short: Wireless
+    conference: The 27th European Conference on Artificial Intelligence(CORE A, CCF B)
+    conference_short: ECAI
+    pdf: https://www.ecai2024.eu/programme/accepted-papers
+    #code: https://github.com/Fischer-Tom/iNeMo
+    bibtex: none
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/blob/main/_data/image/AGI.png
     
