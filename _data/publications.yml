@@ -79,5 +79,22 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:U7XQp_zRCn8J:scholar.google.com/&output=citation&scisdr=ClFqDhxmEKyvq21xqys:AFWwaeYAAAAAZth3syumaTqwcPHe35U5O--wuEo&scisig=AFWwaeYAAAAAZth3s02PnOlO_kLQDzWNvu9kS44&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/MobiDepth.png
 
+  - title: "MVPose: Realtime Multi-Person Pose Estimation Using Motion Vector on Mobile Devices"
+    authors: <u><strong>Jinrui Zhang</strong></u>, Deyu Zhang, Huan Yang, Yunxin Liu, Ju Ren, Xiaohui Xu, Fucheng Jia, and Yaoxue Zhang.
+    conference: IEEE Transactions on Mobile Computing (<span style="color:red">CCF A</span>)
+    conference_short: TMC
+    pdf: https://ieeexplore.ieee.org/abstract/document/9673682
+    #code: https://github.com/Fischer-Tom/iNeMo
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Dmj-EeirLGAJ:scholar.google.com/&output=citation&scisdr=ClFqDhxmEKyvq21_lIk:AFWwaeYAAAAAZth5jImFHPcrR0NY3CPMEOnZfP4&scisig=AFWwaeYAAAAAZth5jJ5iBkf9RtmpfEJiH2MjbV8&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/MVPose.png
+
+  - title: "Optimizing Federated Learning on Device Heterogeneity with A Sampling Strategy"
+    authors: Xiaohui Xu, Sijing Duan, <u><strong>Jinrui Zhang</strong></u>, Yunzheng Luo,Deyu Zhang.
+    conference: IEEE/ACM International Symposium on Quality of Service (<span style="color:red">CCF B</span>)
+    conference_short: IWQoS
+    pdf: https://ieeexplore.ieee.org/abstract/document/9521361
+    #code: https://github.com/Fischer-Tom/iNeMo
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ItGcYI9LbxIJ:scholar.google.com/&output=citation&scisdr=ClFqDhxmEKyvq218v2Y:AFWwaeYAAAAAZth6p2bAMjI9kScURRfF4o9quHs&scisig=AFWwaeYAAAAAZth6p_Jiupw6vOUjqHXGIkD3EQw&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/IWQoS.png
 
     
