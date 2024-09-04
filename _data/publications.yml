@@ -22,7 +22,7 @@ main:
   
   - title: "Mobile Generative AI: Opportunities and Challenges"
     authors: Ye Zhang, <strong>Jinrui Zhang*</strong>, Sheng Yue, Wei Lu, Ju Ren, Xuemin(Sherman) Shen.
-    conference_short: Wireless
+    #conference_short: Wireless
     conference: IEEE Wireless Communications(JCR Q1), 2024
     pdf: https://ieeexplore.ieee.org/abstract/document/10628027
     #code: https://github.com/Fischer-Tom/iNeMo
