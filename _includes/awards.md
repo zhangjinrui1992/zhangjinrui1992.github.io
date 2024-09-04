@@ -2,7 +2,6 @@
 
 <h3 style="margin: 60px 0px 10px;">Competition Awards</h3>
 
-
 <h4 style="margin:0 10px 0;">National-Level:</h4>
 
 <ul style="margin:0 0 5px;">

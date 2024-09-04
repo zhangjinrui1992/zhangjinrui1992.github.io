@@ -33,7 +33,7 @@ main:
   - title: "MultiCounter: Multiple Action Agnostic Repetition Counting in Untrimmed Videos"
     authors: Yin Tang, Wei Luo, <strong><u>Jinrui Zhang</u></strong>, Wei Huang, Ruihai Jing, Deyu Zhang.
     #conference_short: Wireless
-    conference: The 27th European Conference on Artificial Intelligence(<span style="color:red">CORE A</span>, <span style="color:red">CCF B</span>)
+    conference: The 27th European Conference on Artificial Intelligence (ECAI)(<span style="color:red">CORE A</span>, <span style="color:red">CCF B</span>)
     conference_short: ECAI
     pdf: https://www.ecai2024.eu/programme/accepted-papers
     #code: https://github.com/Fischer-Tom/iNeMo
@@ -43,7 +43,7 @@ main:
   - title: "MBSeg: Real-Time Contour-Based Method Instance Segmentation for Egocentric Vision"
     authors: Wei Luo, Deyu Zhang, <strong><u>Jinrui Zhang</u></strong>, Bangwen He, Wang Sun, Huan Yang, Ju Ren.
     #conference_short: Wireless
-    conference: IEEE Internet of Things Journal(<span style="color:red">JCR Q1</span>)
+    conference: IEEE Internet of Things Journal (IoT-J)(<span style="color:red">JCR Q1</span>)
     conference_short: IoT-J
     pdf: https://ieeexplore.ieee.org/document/10474095
     #code: https://github.com/Fischer-Tom/iNeMo
@@ -51,9 +51,9 @@ main:
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/MBSeg.png
 
   - title: "HiMoDepth: Efficient Training-free High-resolution On-device Depth Perception"
-    authors: <strong><u>Jinrui Zhang</u></strong>, Huan Yang, Ju Ren, Deyu Zhang, Bangwen He, Youngki Lee, Ting Cao, Yuanchun Li, Yaoxue Zhang, and Yunxin Liu.
+    authors: <strong><u>Jinrui Zhang</u></strong>, Huan Yang, Ju Ren, Deyu Zhang, Bangwen He, Youngki Lee, Ting Cao, Yuanchun Li, Yaoxue Zhang, Yunxin Liu.
     #conference_short: Wireless
-    conference: IEEE Transactions on Mobile Computing (<span style="color:red">CCF A</span>)
+    conference: IEEE Transactions on Mobile Computing (<strong>TMC</strong>) (<span style="color:red">CCF A</span>)
     conference_short: TMC
     pdf: https://ieeexplore.ieee.org/abstract/document/10178038
     #code: https://github.com/Fischer-Tom/iNeMo
@@ -61,7 +61,7 @@ main:
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/HiMoDepth.png
 
   - title: "Ego3DPose: Capturing 3D Cues from Binocular Egocentric Views"
-    authors: Taeho Kang, Kyungjin Lee, <strong><u>Jinrui Zhang</u></strong>,Youngki Lee.
+    authors: Taeho Kang, Kyungjin Lee, <strong><u>Jinrui Zhang</u></strong>, Youngki Lee.
     #conference_short: Wireless
     conference: SIGGRAPH Asia 2023 (<span style="color:red">CORE A*</span>, <span style="color:red">CCF A</span>)
     conference_short: SA'23
@@ -71,17 +71,17 @@ main:
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/Ego3DPose.png
   
   - title: "MobiDepth: Real-Time Depth Estimation Using On-Device Dual Cameras"
-    authors: <strong><u>Jinrui Zhang</u></strong>, Huan Yang, Ju Ren, Deyu Zhang, Bangwen He, Ting Cao, Yuanchun Li, Yaoxue Zhang, and Yunxin Liu.
-    conference: The 28th International Conference on Mobile Computing and Networking(<strong>MobiCom</strong>) (<span style="color:red">CORE A*</span>, <span style="color:red">CCF A</span>)
-    conference_short: ACM MobiCom
+    authors: <strong><u>Jinrui Zhang</u></strong>, Huan Yang, Ju Ren, Deyu Zhang, Bangwen He, Ting Cao, Yuanchun Li, Yaoxue Zhang, Yunxin Liu.
+    conference: The 28th International Conference on Mobile Computing and Networking (<strong>ACM MobiCom</strong>) (<span style="color:red">CORE A*</span>, <span style="color:red">CCF A</span>)
+    conference_short: MobiCom
     pdf: https://dl.acm.org/doi/abs/10.1145/3495243.3560517
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:U7XQp_zRCn8J:scholar.google.com/&output=citation&scisdr=ClFqDhxmEKyvq21xqys:AFWwaeYAAAAAZth3syumaTqwcPHe35U5O--wuEo&scisig=AFWwaeYAAAAAZth3s02PnOlO_kLQDzWNvu9kS44&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/MobiDepth.png
 
   - title: "MVPose: Realtime Multi-Person Pose Estimation Using Motion Vector on Mobile Devices"
-    authors: <strong><u>Jinrui Zhang</u></strong>, Deyu Zhang, Huan Yang, Yunxin Liu, Ju Ren, Xiaohui Xu, Fucheng Jia, and Yaoxue Zhang.
-    conference: IEEE Transactions on Mobile Computing (<span style="color:red">CCF A</span>)
+    authors: <strong><u>Jinrui Zhang</u></strong>, Deyu Zhang, Huan Yang, Yunxin Liu, Ju Ren, Xiaohui Xu, Fucheng Jia, Yaoxue Zhang.
+    conference: IEEE Transactions on Mobile Computing (<strong>TMC</strong>) (<span style="color:red">CCF A</span>)
     conference_short: TMC
     pdf: https://ieeexplore.ieee.org/abstract/document/9673682
     #code: https://github.com/Fischer-Tom/iNeMo
@@ -90,8 +90,8 @@ main:
 
     
   - title: "Optimizing Federated Learning on Device Heterogeneity with A Sampling Strategy"
-    authors: Xiaohui Xu, Sijing Duan, <strong><u>Jinrui Zhang</u></strong>, Yunzheng Luo,Deyu Zhang.
-    conference: IEEE/ACM International Symposium on Quality of Service(IWQoS) (<span style="color:red">CCF B</span>)
+    authors: Xiaohui Xu, Sijing Duan, <strong><u>Jinrui Zhang</u></strong>, Yunzheng Luo, Deyu Zhang.
+    conference: IEEE/ACM International Symposium on Quality of Service (IWQoS) (<span style="color:red">CCF B</span>)
     conference_short: IWQoS
     pdf: https://ieeexplore.ieee.org/abstract/document/9521361
     #code: https://github.com/Fischer-Tom/iNeMo
@@ -99,9 +99,9 @@ main:
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/IWQoS.png
 
   - title: "MobiPose: Real-time multi-person pose estimation on mobile devices"
-    authors: <strong><u>Jinrui Zhang</u></strong>, Deyu Zhang, Xiaohui Xu, Fucheng Jia, Yunxin Liu, Xuanzhe Liu, Ju Ren, and Yaoxue Zhang.
-    conference: The 18th Conference on Embedded Networked Sensor Systems(<strong>SenSys</strong>) (<span style="color:red">CCF B</span>)
-    conference_short: ACM SenSys
+    authors: <strong><u>Jinrui Zhang</u></strong>, Deyu Zhang, Xiaohui Xu, Fucheng Jia, Yunxin Liu, Xuanzhe Liu, Ju Ren, Yaoxue Zhang.
+    conference: The 18th Conference on Embedded Networked Sensor Systems (<strong>ACM SenSys</strong>) (<span style="color:red">CCF B</span>)
+    conference_short: SenSys
     pdf: https://dl.acm.org/doi/abs/10.1145/3384419.3430726
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ojrVMQLQ22cJ:scholar.google.com/&output=citation&scisdr=ClFqDhxmEKyvq219lbY:AFWwaeYAAAAAZth7jbak54KCRvZwdTv_jX-paaU&scisig=AFWwaeYAAAAAZth7jdrP6jUAUCkBL0BcPd5ydjc&scisf=4&ct=citation&cd=-1&hl=zh-CN
