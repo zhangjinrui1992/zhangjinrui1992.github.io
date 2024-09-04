@@ -4,19 +4,19 @@ main:
     authors: Jinrui Zhang, Congying Zhou, Huan Yang, Deyu Zhang, Ju Ren, Yaoxue Zhang.
     conference_short: IEEE MCE
     conference: IEEE Consumer Electronics Magazine(JCR Q1), 2024.
-    pdf:
+    pdf: none
     #code: https://github.com/Fischer-Tom/iNeMo
-    bibtex: 
+    bibtex: none
     image: ./image/CEM.png
     notes: to appear
     
   - title: "FL-Joint: Joint Aligning Features and Labels in Federated Learning for Data Heterogeneity"
     authors: Wenxin Chen, <strong>Jinrui Zhang(corresponding author)</strong>, Deyu Zhang.
-    conference_short: C&I S
+    conference_short: Complex & Intelligent System
     conference: Complex & Intelligent System(JCR Q1), 2024.
     pdf: 
     #code: https://github.com/Fischer-Tom/iNeMo
-    bibtex: 
+    bibtex: none
     image: ./image/FL_Joint.png
     notes: to appear
   
@@ -24,6 +24,7 @@ main:
     authors: Ye Zhang, <strong>Jinrui Zhang*</strong>, Sheng Yue, Wei Lu, Ju Ren, Xuemin(Sherman) Shen.
     #conference_short: Wireless
     conference: IEEE Wireless Communications(JCR Q1), 2024
+    conference_short: Wireless Communications
     pdf: https://ieeexplore.ieee.org/abstract/document/10628027
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:dkNnJ4I3ElkJ:scholar.google.com/&output=citation&scisdr=ClFqDhxmEKyvq21LlcU:AFWwaeYAAAAAZthNjcU2Y1rmPGBVyPmqfIX-hAY&scisig=AFWwaeYAAAAAZthNjcSnfTM6_oGRomI2CPt4aVw&scisf=4&ct=citation&cd=-1&hl=zh-CN
