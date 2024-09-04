@@ -15,8 +15,4 @@
 <li><strong>[Aug. 2021]</strong> I joined the Insitute for AI Industry Research(AIR), at Tsinghua University. Mentor: Prof.Yunxin Liu. </li>
 <li><strong>[Apr. 2021]</strong> Our paper," Optimizing Federated Learning on Device Heterogeneity with A Sampling Strategy", is accepted by IEEE IWQoS 2021.</li>
 <li><strong>[Sep. 2020]</strong> Our paper, "MobiPose: Real-Time Multi-Person Pose Estimation on Mobile Devices", was accepted by <strong>ACM SenSys'20</strong> !</li>
-
-
-</div>
-
 </ul>
