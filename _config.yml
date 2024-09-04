@@ -4,7 +4,7 @@ position: Postdoctoral Researcher
 affiliation: Tsinghua University
 #affiliation: Tsinghua University
 affiliation_link: https://www.cs.tsinghua.edu.cn/
-affiliation_logo: ./assets/img/thu.png
+# affiliation_logo: ./assets/img/thu.png
 email: jinruizhang (at) mail.tsinghua.edu.cn
 
 # Search Engine Optimization (SEO)
@@ -27,7 +27,7 @@ linkedin: https://www.linkedin.com/in/zhang-jinrui-147357192/
 
 # Images 
 avatar: ./assets/img/zjr.png
-favicon: ./assets/img/favicon.ico
+# favicon: ./assets/img/favicon.ico
 favicon_dark: ./assets/img/thu.png
 
 # Footnotes
