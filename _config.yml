@@ -4,13 +4,13 @@ position: Postdoctoral Researcher
 affiliation: Tsinghua University
 #affiliation: Tsinghua University
 affiliation_link: https://www.cs.tsinghua.edu.cn/
-affiliation_logo: ./assets/img/thu3.png
+#affiliation_logo: ./assets/img/thu3.png
 email: jinruizhang (at) mail.tsinghua.edu.cn
 
 # Search Engine Optimization (SEO)
 keywords: jinrui zhang, zhang jinrui, jinruizhang, zhangjinrui
 canonical: https://zjr.eis.mobi/
-description: Jinrui Zhang is a postdoctoral researcher at Tsinghua University. His research lies in Internet-of-Things, edge computing, embedded AI.
+description: Jinrui Zhang is a postdoctoral researcher at Tsinghua University. His research lies in Internet-of-Things, edge computing, and embedded AI.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
