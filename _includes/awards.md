@@ -22,17 +22,17 @@
 
 <ul style="margin:0 0 5px;">
   <li>Postdoctoral Fellowship Program of CPSF.</li>
-  <li>Distinguished doctoral graduate from Central South University.</li>
-  <li>Outstanding doctoral candidate at Central South University.</li>
-  <li>Top Ten Outstanding Student Cadres of Central South University.</li>
-  <li>Distinguished undergraduate graduates from Central South University.</li>
+  <li>Distinguished Doctoral Graduate from Central South University.</li>
+  <li>Outstanding Doctoral Candidate at Central South University.</li>
+  <li>Top Ten Excellent Graduate Student Cadre Model of Central South University.</li>
+  <li>Distinguished Undergraduate Graduates from Central South University.</li>
   <li>President of the Graduate Student Association at the School of Computer Science, Central South University.</li>
 </ul>
 
 <h3 style="margin: 60px 0px 10px;">Scholarship Awards</h3>
 
 <ul style="margin:0 0 5px;">
-  <li>National Scholarship from the China Scholarship Council.</li>
-  <li>First-class Graduate Study Scholarship.</li>
-  <li>First-class Graduate Study Scholarship.</li>
+  <li>China Scholarship Council(CSC) Scholarship.</li>
+  <li>First-class Academic Scholarship. (4 times)</li>
+  <li>“Transparent Computing” Encouragement Scholarship.</li>
 </ul>
