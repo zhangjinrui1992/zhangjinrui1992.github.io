@@ -4,11 +4,11 @@ main:
     authors:  <strong><u>Jinrui Zhang</u></strong>, Congying Zhou, Huan Yang, Deyu Zhang, Ju Ren, Yaoxue Zhang.
     conference_short: MCE
     conference: IEEE Consumer Electronics Magazine(<span style="color:red">JCR Q1</span>), 2024.
-    pdf: none
+    pdf: https://ieeexplore.ieee.org/document/10669807
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: none
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/CEM.png
-    notes: to appear
+  
     
   - title: "FL-Joint: Joint Aligning Features and Labels in Federated Learning for Data Heterogeneity"
     authors: Wenxin Chen,  <strong><u>Jinrui Zhang</u>(corresponding author)</strong>, Deyu Zhang.
