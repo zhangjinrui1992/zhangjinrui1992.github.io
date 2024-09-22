@@ -3,7 +3,7 @@
 <p><strong>Address:</strong> <a href="https://maps.app.goo.gl/WpiFuAgFpjMsLqfG8"> Tsinghua University, Beijing, 100084, China </a>
 <br />
 
-<strong>Office Location:</strong> FIT Building 3503
+<strong>Office Location:</strong> FIT Building 3529
 <br />
 
-<strong>Email:</strong> <email>jinruizhang (at) mail.tsinghua.edu.cn</email> </p>
+<strong>Email:</strong> <email>jinruizhang (at) tsinghua.edu.cn</email> </p>

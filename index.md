@@ -8,7 +8,7 @@ layout: homepage
 
 
 
-I am currently a postdoctoral researcher advised by [Prof. Ju Ren](https://juren1987.github.io/) in the Department of Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/). 
+I am currently a postdoctoral researcher co-advised by [Prof. Yaoxue Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1059/4004.htm") and [Prof. Ju Ren](https://juren1987.github.io/) in the Department of Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/). 
 
 My research lies at the intersection of **computer vision** and **deep learning system**. My research interests include **on-device and edge intelligence**, **optimizations for resource-constrained devices**, and **computer vision**.
 
