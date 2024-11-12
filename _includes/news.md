@@ -10,7 +10,7 @@
 <li><strong>[Dec. 2023]</strong> Finished my PhD with <strong>Outstanding Graduate Award</strong> from Central South University. </li>
 <li><strong>[Aug. 2023]</strong> Our paper, "Ego3DPose: Capturing 3D Cues from Binocular Egocentric Views", is accepted by <strong>ACM SIGGRAPH Asia 2023</strong>! Congratulations to Taeho Kang. </li>
 <li><strong>[July. 2023]</strong> Our paper, "HiMoDepth: Efficient Training-free High-resolution On-device Depth Perception", is accepted by <strong>IEEE Transactions on Mobile Computing</strong>. </li>
-<li><strong>[Sep. 2022]</strong> I join the <a href="https://hcs.snu.ac.kr/">HCS Lab</a> as a visiting research at Seoul National University, advised by <a href="http://youngkilee.blogspot.com/">Prof. Youngki Lee</a>. </li>
+<li><strong>[Sep. 2022]</strong> I join the <a href="https://hcs.snu.ac.kr/">HCS Lab</a> as a visiting research at Seoul National University in Korea, advised by <a href="http://youngkilee.blogspot.com/">Prof. Youngki Lee</a>. </li>
 <li><strong>[Aug. 2022]</strong> I will give a talk on Hunan Province "Big Data and Artificial Intelligence" Innovation Forum. </li>
 <li><strong>[June. 2022]</strong> Our paper, "MobiDepth: Real-Time Depth Estimation Using On-Device Dual Cameras", is accepted by <strong>ACM MobiCom'22</strong> ! </li>
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
