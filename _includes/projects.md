@@ -6,6 +6,9 @@
   <li>
     <strong>Project Host</strong>, National Natural Science Foundation of China (NSFC) Young Scientist Fund, "Research on Key Technologies of Real-time Deep Perception Adaptive to Edge-side Information Fusion", 2025.01-2027.12.
   </li>
+    <li>
+    <strong>Project Host</strong>, China Postdoctoral Science Foundation, "Research on Key Technologies of Multimodal Fusion Depth Perception for Mobile Devices", 2025.01-2025.12.
+  </li>
   <li>
     <strong>Project Leader</strong>, Tsinghua University - Honor Technology Cooperative Development Project, "Research on Key Technologies for Atomic Scene Recognition and Optimization", 2024.10-2025.09.
   </li>
