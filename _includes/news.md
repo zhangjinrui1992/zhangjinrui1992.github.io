@@ -1,8 +1,10 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[Jan. 2025]<sup><font color=red size=2>New</font></sup></strong> Our paper, "端智能推理加速技术综述", is accpeted by  <strong>《电子学报》</strong>!</li>
+<li><strong>[Dec. 2024]<sup><font color=red size=2>New</font></sup></strong> Our paper, "MobiFuse: A High-Precision On-device Depth Perception System with Multi-Data Fusion", is now published on  <strong>arXiv</strong>. All are welcome to join the discussion.</li>
 <li><strong>[Nov. 2024]<sup><font color=red size=2>New</font></sup></strong> Our paper, "MAML-RAL: Learning Domain-Invariant HOI Rules for Real-Time Video Matting", is accepted by <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>! Congratulations to Jiang.</li>
-<li><strong>[Oct. 2024]<sup><font color=red size=2>New</font></sup></strong> I was recognized as the 2024 ACM SIGAPP China Outstanding Doctoral Dissertation Award! </li>
+<li><strong>[Oct. 2024]</strong> I was recognized as the 2024 ACM SIGAPP China Outstanding Doctoral Dissertation Award! </li>
 <li><strong>[Sep. 2024]</strong> Our paper, "Heterogeneous Parallel Acceleration for Edge Intelligence Systems: Challenges and Solutions", is accepted by <strong>IEEE Consumer Electronics Magazine</strong>! </li>
 <li><strong>[Sep. 2024]</strong> Our paper, "FL-Joint: Joint Aligning Features and Labels in Federated Learning for Data Heterogeneity", is accepted by <strong>Complex & Intelligent System</strong>! Congratulations to Wenxin. </li>
 <li><strong>[Aug. 2024]</strong> Our paper, "Mobile Generative AI: Opportunities and Challenges", is accepted <strong>IEEE Wireless Communications</strong>! Congratulations to Ye. </li>
