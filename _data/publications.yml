@@ -25,11 +25,20 @@ main:
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: none
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/Diffusion_network.png
+   
+  - title: "Towards ubiquitous intelligence: Current status and prospects of on-device large language models"
+    authors: Yongheng Deng, <strong><u>Jinrui Zhang</u></strong>, Sheng Yue,  Ju Ren.
+    conference_short: ZKJJ
+    conference: Bulletin of National Natural Science Foundation of China《中国科学基金》, 2025.
+    #pdf: https://ieeexplore.ieee.org/abstract/document/10764755
+    #code: https://github.com/Fischer-Tom/iNeMo
+    bibtex: none
+    image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/zkjj.jpg
 
-  - title: "端智能推理加速技术综述"
-    authors:  <strong><u>章晋睿</u></strong>, 龙婷婷，张德宇，许愿，任炬，张尧学.
+  - title: "On-Device Intelligence Acceleration Technologies: A Survey"
+    authors:  <strong><u>Jinrui Zhang</u></strong>, Tingting Long, Deyu Zhang, Yuan Xu, Ju Ren, Yaoxue Zhang.
     conference_short: CJE
-    conference: 电子学报(<span style="color:red">CCF T1</span>), 2025.
+    conference: Acta Electronica Sinica《电子学报》(<span style="color:red">CCF T1</span>), 2025.
     #pdf: https://ieeexplore.ieee.org/abstract/document/10764755
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: none
