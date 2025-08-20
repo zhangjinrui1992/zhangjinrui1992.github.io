@@ -2,7 +2,7 @@ main:
   - title: "MobiFuse: A High-Precision On-device Depth Perception System with Multi-Data Fusion"
     authors: <strong><u>Jinrui Zhang</u></strong>, Deyu Zhang, Tingting Long, Wenxin Chen, Ju Ren, Yunxin Liu, Yudong Zhao, Yaoxue Zhang, Youngki Lee.
     conference_short: TMC
-    conference: IEEE Transactions on Mobile Computing (<strong>TMC</strong>) (<span style="color:red">CCF A</span>), 2025
+    conference: IEEE Transactions on Mobile Computing (<span style="color:red">CCF A</span>), 2025
     pdf: https://arxiv.org/abs/2412.13848
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:R2y4co3iko4J:scholar.google.com/&output=citation&scisdr=ClGegZ8lEIvW3cz9RaQ:AFWwaeYAAAAAZ3f7XaTg1INMikL69TaDidEDDF8&scisig=AFWwaeYAAAAAZ3f7XWqVu360gwccp6VSxLiLPp0&scisf=4&ct=citation&cd=-1&hl=zh-CN
@@ -11,7 +11,7 @@ main:
   - title: "Towards On-device NPU-Friendly Neural Network Operator Optimization"
     authors:  Ye Wei<span>&spades;</span>, <strong><u>Jinrui Zhang</u><span>&spades;</span></strong>, Deyu Zhang, Huan Yang, Yin Tang.
     conference_short: AIoTSys
-    conference:  The 3rd International Conference on Artificial Intelligence of Things and Systems (<span style="color:red">Best Paper Award</span>)
+    conference:  The 3rd International Conference on Artificial Intelligence of Things and Systems (<strong>AIoTSys'25</strong>) (<span style="color:red">Best Paper Award</span>)
     #pdf: https://ieeexplore.ieee.org/abstract/document/10764755
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: none
@@ -27,7 +27,7 @@ main:
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/Diffusion_network.png
    
   - title: "Towards ubiquitous intelligence: Current status and prospects of on-device large language models"
-    authors: Yongheng Deng, <strong><u>Jinrui Zhang</u></strong>, Sheng Yue,  Ju Ren.
+    authors: Yongheng Deng, <strong><u>Jinrui Zhang</u></strong>, Sheng Yue, Ju Ren.
     conference_short: ZKJJ
     conference: Bulletin of National Natural Science Foundation of China《中国科学基金》, 2025.
     #pdf: https://ieeexplore.ieee.org/abstract/document/10764755
@@ -96,7 +96,7 @@ main:
   - title: "MBSeg: Real-Time Contour-Based Method Instance Segmentation for Egocentric Vision"
     authors: Wei Luo, Deyu Zhang, <strong><u>Jinrui Zhang</u></strong>, Bangwen He, Wang Sun, Huan Yang, Ju Ren.
     #conference_short: Wireless
-    conference: IEEE Internet of Things Journal (IoT-J)(<span style="color:red">JCR Q1</span>), 2023
+    conference: IEEE Internet of Things Journal (<span style="color:red">JCR Q1</span>), 2023
     conference_short: IoT-J
     pdf: https://ieeexplore.ieee.org/document/10474095
     #code: https://github.com/Fischer-Tom/iNeMo
@@ -106,7 +106,7 @@ main:
   - title: "HiMoDepth: Efficient Training-free High-resolution On-device Depth Perception"
     authors: <strong><u>Jinrui Zhang</u></strong>, Huan Yang, Ju Ren, Deyu Zhang, Bangwen He, Youngki Lee, Ting Cao, Yuanchun Li, Yaoxue Zhang, Yunxin Liu.
     #conference_short: Wireless
-    conference: IEEE Transactions on Mobile Computing (<strong>TMC</strong>) (<span style="color:red">CCF A</span>), 2023
+    conference: IEEE Transactions on Mobile Computing (<span style="color:red">CCF A</span>), 2023
     conference_short: TMC
     pdf: https://ieeexplore.ieee.org/abstract/document/10178038
     #code: https://github.com/Fischer-Tom/iNeMo
@@ -116,7 +116,7 @@ main:
   - title: "Ego3DPose: Capturing 3D Cues from Binocular Egocentric Views"
     authors: Taeho Kang, Kyungjin Lee, <strong><u>Jinrui Zhang</u></strong>, Youngki Lee.
     #conference_short: Wireless
-    conference: SIGGRAPH Asia 2023 (<span style="color:red">CORE A*</span>, <span style="color:red">CCF A</span>), 2023
+    conference: ACM SIGGRAPH Asia 2023 (<span style="color:red">CORE A*</span>, <span style="color:red">CCF A</span>), 2023
     conference_short: SA'23
     pdf: https://dl.acm.org/doi/abs/10.1145/3610548.3618147
     #code: https://github.com/Fischer-Tom/iNeMo
@@ -134,7 +134,7 @@ main:
 
   - title: "MVPose: Realtime Multi-Person Pose Estimation Using Motion Vector on Mobile Devices"
     authors: <strong><u>Jinrui Zhang</u></strong>, Deyu Zhang, Huan Yang, Yunxin Liu, Ju Ren, Xiaohui Xu, Fucheng Jia, Yaoxue Zhang.
-    conference: IEEE Transactions on Mobile Computing (<strong>TMC</strong>) (<span style="color:red">CCF A</span>), 2021
+    conference: IEEE Transactions on Mobile Computing  (<span style="color:red">CCF A</span>), 2021
     conference_short: TMC
     pdf: https://ieeexplore.ieee.org/abstract/document/9673682
     #code: https://github.com/Fischer-Tom/iNeMo
