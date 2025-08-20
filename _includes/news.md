@@ -2,7 +2,7 @@
 
 <ul>
 <li><strong>[Aug. 2025]<sup><font color=red size=2>New</font></sup></strong> Our paper, "MobiFuse: A High-Precision On-device Depth Perception System with Multi-Data Fusion", is accpeted by <strong>IEEE TMC</strong>!</li>
-<li><strong>[Aug. 2025]<sup><font color=red size=2>New</font></sup></strong> We have been awarded <strong><font color=red> the Best Paper Award</font></strong> at AIoTSys 2025.！
+<li><strong>[Aug. 2025]<sup><font color=red size=2>New</font></sup></strong> We have been awarded <strong><font color=red> the Best Paper Award</font></strong> at AIoTSys 2025！
 </li>
 <li><strong>[July 2025]<sup><font color=red size=2>New</font></sup></strong> Our paper, "Towards On-device NPU-Friendly Neural Network Operator Optimization", is accpeted by  <strong>AIoTSys'25</strong>! Congratulations to Ye!</li>
 <li><strong>[June 2025]<sup><font color=red size=2>New</font></sup></strong> Our paper, "FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices", is accpeted by  <strong>MobiCom'25</strong>!</li>

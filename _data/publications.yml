@@ -20,7 +20,7 @@ main:
   - title: "FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices"
     authors:  <strong><u>Jinrui Zhang</u></strong>, Pengkai Li, Fengzu Li, Deyu Zhang, Wei Gao, Sheng Yue, Yaoxue Zhang, Ju Ren.
     conference_short: MobiCom
-    conference:  The 31th International Conference on Mobile Computing and Networking (<strong>ACM MobiCom</strong>) (<span style="color:red">CORE A*</span>, <span style="color:red">CCF A</span>), 2025
+    conference:  The 31th International Conference on Mobile Computing and Networking (<strong>ACM MobiCom'25</strong>). Acceptance rate = 10.3% (36/348, winter round). (<span style="color:red">CORE A*</span>, <span style="color:red">CCF A</span>)
     #pdf: https://ieeexplore.ieee.org/abstract/document/10764755
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: none
@@ -116,7 +116,7 @@ main:
   - title: "Ego3DPose: Capturing 3D Cues from Binocular Egocentric Views"
     authors: Taeho Kang, Kyungjin Lee, <strong><u>Jinrui Zhang</u></strong>, Youngki Lee.
     #conference_short: Wireless
-    conference: ACM SIGGRAPH Asia 2023 (<span style="color:red">CORE A*</span>, <span style="color:red">CCF A</span>), 2023
+    conference: ACM SIGGRAPH Asia 2023 (<span style="color:red">CORE A*</span>, <span style="color:red">CCF A</span>)
     conference_short: SA'23
     pdf: https://dl.acm.org/doi/abs/10.1145/3610548.3618147
     #code: https://github.com/Fischer-Tom/iNeMo
@@ -125,7 +125,7 @@ main:
   
   - title: "MobiDepth: Real-Time Depth Estimation Using On-Device Dual Cameras"
     authors: <strong><u>Jinrui Zhang</u></strong>, Huan Yang, Ju Ren, Deyu Zhang, Bangwen He, Ting Cao, Yuanchun Li, Yaoxue Zhang, Yunxin Liu.
-    conference: The 28th International Conference on Mobile Computing and Networking (<strong>ACM MobiCom</strong>) (<span style="color:red">CORE A*</span>, <span style="color:red">CCF A</span>), 2022
+    conference: The 28th International Conference on Mobile Computing and Networking (<strong>ACM MobiCom'22</strong>). Acceptance rate = 18.4% (41/223, winter round). (<span style="color:red">CORE A*</span>, <span style="color:red">CCF A</span>)
     conference_short: MobiCom
     pdf: https://dl.acm.org/doi/abs/10.1145/3495243.3560517
     #code: https://github.com/Fischer-Tom/iNeMo

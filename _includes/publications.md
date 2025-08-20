@@ -1,6 +1,6 @@
 <h1 id="publications"></h1>
 
-<h2 style="margin: 60px 0px -15px;">Publications(* Corresponding author/<span>&spades;</span> Co-first authors ) <temp style="font-size:15px;"></temp><a href="https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F5MvoFmLVLXZMSFzvwEBIwAgihn9GhFtv6ehrFpi2HR71CIRY2g-5Qb79dTN6iXSI4U-Bt7siFW9-Su20JJtvFSsfXpzHYzf3MlAzNEc2tCvlAHC7k&user=u3HAVnkAAAAJ" target="_blank" style="font-size:15px;">[Google Scholar]</a><temp style="font-size:15px;"></temp></h2>
+<h2 style="margin: 60px 0px -15px;">Publications(* = Corresponding author/<span>&spades;</span> = Co-first authors ) <temp style="font-size:15px;"></temp><a href="https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F5MvoFmLVLXZMSFzvwEBIwAgihn9GhFtv6ehrFpi2HR71CIRY2g-5Qb79dTN6iXSI4U-Bt7siFW9-Su20JJtvFSsfXpzHYzf3MlAzNEc2tCvlAHC7k&user=u3HAVnkAAAAJ" target="_blank" style="font-size:15px;">[Google Scholar]</a><temp style="font-size:15px;"></temp></h2>
 
 
 <div class="publications">
