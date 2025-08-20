@@ -21,6 +21,7 @@
 <h3 style="margin: 60px 0px 10px;">Honorary Titles</h3>
 
 <ul style="margin:0 0 5px;">
+  <li>Best Paper Award at AIoTSys 2025.</li>
   <li>Postdoctoral Fellowship Program of CPSF.</li>
   <li>Distinguished Doctoral Graduate from Central South University.</li>
   <li>Outstanding Doctoral Candidate at Central South University.</li>
