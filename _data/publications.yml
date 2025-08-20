@@ -1,4 +1,31 @@
 main:
+  - title: "MobiFuse: A High-Precision On-device Depth Perception System with Multi-Data Fusion"
+    authors: <strong><u>Jinrui Zhang</u></strong>, Deyu Zhang, Tingting Long, Wenxin Chen, Ju Ren, Yunxin Liu, Yudong Zhao, Yaoxue Zhang, Youngki Lee.
+    conference_short: TMC
+    conference: IEEE Transactions on Mobile Computing (<strong>TMC</strong>) (<span style="color:red">CCF A</span>), 2025
+    pdf: https://arxiv.org/abs/2412.13848
+    #code: https://github.com/Fischer-Tom/iNeMo
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:R2y4co3iko4J:scholar.google.com/&output=citation&scisdr=ClGegZ8lEIvW3cz9RaQ:AFWwaeYAAAAAZ3f7XaTg1INMikL69TaDidEDDF8&scisig=AFWwaeYAAAAAZ3f7XWqVu360gwccp6VSxLiLPp0&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/mobifuse.png
+
+  - title: "Towards On-device NPU-Friendly Neural Network Operator Optimization"
+    authors:  Ye Wei<span>&spades;</span>, <strong><u>Jinrui Zhang</u><span>&spades;</span></strong>, Deyu Zhang, Huan Yang, Yin Tang.
+    conference_short: AIoTSys
+    conference:  The 3rd International Conference on Artificial Intelligence of Things and Systems (<span style="color:red">Best Paper Award</span>)
+    #pdf: https://ieeexplore.ieee.org/abstract/document/10764755
+    #code: https://github.com/Fischer-Tom/iNeMo
+    bibtex: none
+    image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/AIoTSys.png
+
+  - title: "FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices"
+    authors:  <strong><u>Jinrui Zhang</u></strong>, Pengkai Li, Fengzu Li, Deyu Zhang, Wei Gao, Sheng Yue, Yaoxue Zhang, Ju Ren.
+    conference_short: MobiCom
+    conference:  The 31th International Conference on Mobile Computing and Networking (<strong>ACM MobiCom</strong>) (<span style="color:red">CORE A*</span>, <span style="color:red">CCF A</span>), 2025
+    #pdf: https://ieeexplore.ieee.org/abstract/document/10764755
+    #code: https://github.com/Fischer-Tom/iNeMo
+    bibtex: none
+    image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/Diffusion_network.png
+
   - title: "端智能推理加速技术综述"
     authors:  <strong><u>章晋睿</u></strong>, 龙婷婷，张德宇，许愿，任炬，张尧学.
     conference_short: CJE
@@ -7,16 +34,7 @@ main:
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: none
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/综述.png
-
-  - title: "MobiFuse: A High-Precision On-device Depth Perception System with Multi-Data Fusion"
-    authors: <strong><u>Jinrui Zhang</u></strong>, Deyu Zhang, Tingting Long, Wenxin Chen, Ju Ren, Yunxin Liu, Yudong Zhao, Yaoxue Zhang, Youngki Lee.
-    conference_short: arXiv
-    conference: arXiv
-    pdf: https://arxiv.org/abs/2412.13848
-    #code: https://github.com/Fischer-Tom/iNeMo
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:R2y4co3iko4J:scholar.google.com/&output=citation&scisdr=ClGegZ8lEIvW3cz9RaQ:AFWwaeYAAAAAZ3f7XaTg1INMikL69TaDidEDDF8&scisig=AFWwaeYAAAAAZ3f7XWqVu360gwccp6VSxLiLPp0&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/mobifuse.png
-
+    
   - title: "MAML-RAL: Learning Domain-Invariant HOI Rules for Real-Time Video Matting"
     authors:  Jiang Xin, Sheng Yue, <strong><u>Jinrui Zhang</u>*</strong>, Ju Ren, Feng Qian, Yaoxue Zhang.
     conference_short: TCSVT
