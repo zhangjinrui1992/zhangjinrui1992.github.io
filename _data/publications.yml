@@ -1,4 +1,22 @@
 main:
+  - title: "SRDrone: LLM-Driven Self-Refinement for Embodied Drone Task Planning"
+    authors: Deyu Zhang, Xicheng Zhang, Jiahao Li, Tingting Long, Xunhua Dai, Yongjian Fu, <strong><u>Jinrui Zhang</u>*</strong>, Ju Ren, Yaoxue Zhang. 
+    conference_short: arXiv
+    conference: arXiv
+    #pdf: https://ieeexplore.ieee.org/abstract/document/10764755
+    #code: https://github.com/Fischer-Tom/iNeMo
+    bibtex: none
+    image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/pipeline.png
+
+  - title: "ProCLIP: Prompt-aware of Frame Sampling for Efficient Text-Video Retrieval"
+    authors: Deyu Zhang, Tingting Long, <strong><u>Jinrui Zhang</u>*</strong>, Ligeng Chen, Ju Ren, Yaoxue Zhang.
+    conference_short: arXiv
+    conference: arXiv
+    #pdf: https://ieeexplore.ieee.org/abstract/document/10764755
+    #code: https://github.com/Fischer-Tom/iNeMo
+    bibtex: none
+    image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/proCLIP.png
+
   - title: "MobiFuse: A High-Precision On-device Depth Perception System with Multi-Data Fusion"
     authors: <strong><u>Jinrui Zhang</u></strong>, Deyu Zhang, Tingting Long, Wenxin Chen, Ju Ren, Yunxin Liu, Yudong Zhao, Yaoxue Zhang, Youngki Lee.
     conference_short: TMC
