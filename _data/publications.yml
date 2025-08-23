@@ -1,18 +1,18 @@
 main:
-  - title: "SRDrone: LLM-Driven Self-Refinement for Embodied Drone Task Planning"
+  - title: "LLM-Driven Self-Refinement for Embodied Drone Task Planning"
     authors: Deyu Zhang, Xicheng Zhang, Jiahao Li, Tingting Long, Xunhua Dai, Yongjian Fu, <strong><u>Jinrui Zhang</u>*</strong>, Ju Ren, Yaoxue Zhang. 
     conference_short: arXiv
     conference: arXiv, 2025 
-    #pdf: https://ieeexplore.ieee.org/abstract/document/10764755
+    pdf: http://arxiv.org/abs/2508.15501
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: none
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/pipeline.png
 
-  - title: "ProCLIP: Prompt-aware of Frame Sampling for Efficient Text-Video Retrieval"
+  - title: "Prompt-aware of Frame Sampling for Efficient Text-Video Retrieval"
     authors: Deyu Zhang, Tingting Long, <strong><u>Jinrui Zhang</u>*</strong>, Ligeng Chen, Ju Ren, Yaoxue Zhang.
     conference_short: arXiv
     conference: arXiv, 2025
-    #pdf: https://ieeexplore.ieee.org/abstract/document/10764755
+    pdf: https://arxiv.org/abs/2507.15491
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: none
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/proCLIP.png
@@ -48,7 +48,7 @@ main:
     authors: Yongheng Deng, <strong><u>Jinrui Zhang</u></strong>, Sheng Yue, Ju Ren.
     conference_short: ZKJJ
     conference: Bulletin of National Natural Science Foundation of China《中国科学基金》, 2025.
-    #pdf: https://ieeexplore.ieee.org/abstract/document/10764755
+    pdf: https://zkjj.cbpt.cnki.net/WKG/WebPublication/paperDigest.aspx?paperID=44941274-6330-4713-a0d0-de36561c5404
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: none
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/zkjj.jpg
@@ -57,7 +57,7 @@ main:
     authors:  <strong><u>Jinrui Zhang</u></strong>, Tingting Long, Deyu Zhang, Yuan Xu, Ju Ren, Yaoxue Zhang.
     conference_short: CJE
     conference: Acta Electronica Sinica《电子学报》(<span style="color:red">CCF T1</span>), 2025.
-    #pdf: https://ieeexplore.ieee.org/abstract/document/10764755
+    pdf: https://www.ejournal.org.cn/CN/10.12263/DZXB.20240691
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: none
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/综述.png
