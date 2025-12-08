@@ -1,7 +1,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Dec. 2025]sup><font color=red size=2>New</font></sup></strong> Our paper, "EarAuth: Towards Practical Cardiac Vibration Authentication on COTS Wireless Earbuds", is accepted by <strong>IEEE INFOCOM 2026</strong>! Congratulations to Yongjian! </li>
+<li><strong>[Dec. 2025]<sup><font color=red size=2>New</font></sup></strong> Our paper, "EarAuth: Towards Practical Cardiac Vibration Authentication on COTS Wireless Earbuds", is accepted by <strong>IEEE INFOCOM 2026</strong>! Congratulations to Yongjian! </li>
 <li><strong>[Aug. 2025]<sup><font color=red size=2>New</font></sup></strong> Our paper, "MobiFuse: A High-Precision On-device Depth Perception System with Multi-Data Fusion", is accpeted by <strong>IEEE TMC</strong>!</li>
 <li><strong>[Aug. 2025]</strong> We have been awarded <strong><font color=red> the Best Paper Award</font></strong> at AIoTSys 2025！
 </li>
