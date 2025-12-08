@@ -1,6 +1,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[Mar. 2024]</strong> Our paper, "EarAuth: Towards Practical Cardiac Vibration Authentication on COTS Wireless Earbuds", is accepted by <strong>IEEE INFOCOM 2026</strong>! Congratulations to Yongjian! </li>
 <li><strong>[Aug. 2025]<sup><font color=red size=2>New</font></sup></strong> Our paper, "MobiFuse: A High-Precision On-device Depth Perception System with Multi-Data Fusion", is accpeted by <strong>IEEE TMC</strong>!</li>
 <li><strong>[Aug. 2025]<sup><font color=red size=2>New</font></sup></strong> We have been awarded <strong><font color=red> the Best Paper Award</font></strong> at AIoTSys 2025！
 </li>
@@ -8,7 +9,7 @@
 <li><strong>[June 2025]<sup><font color=red size=2>New</font></sup></strong> Our paper, "FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices", is accpeted by  <strong>MobiCom'25</strong>!</li>
 <li><strong>[May 2025]</strong> Our paper, "Towards ubiquitous intelligence: Current status and prospects of on-device large language models", is accpeted by  <strong>Bulletin of National Natural Science Foundation of China《中国科学基金》</strong>!</li>
 <li><strong>[Jan. 2025]</strong> Our paper, "On-Device Intelligence Acceleration Technologies: A Survey", is accpeted by  <strong>Acta Electronica Sinica《电子学报》</strong>!</li>
-<li><strong>[Nov. 2024]</strong> Our paper, "MAML-RAL: Learning Domain-Invariant HOI Rules for Real-Time Video Matting", is accepted by <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>! Congratulations to Jiang.</li>
+<li><strong>[Nov. 2024]</strong> Our paper, "MAML-RAL: Learning Domain-Invariant HOI Rules for Real-Time Video Matting", is accepted by <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>! Congratulations to Jiang!</li>
 <li><strong>[Oct. 2024]</strong> I was recognized as the 2024 ACM SIGAPP China Outstanding Doctoral Dissertation Award! </li>
 <li><strong>[Sep. 2024]</strong> Our paper, "Heterogeneous Parallel Acceleration for Edge Intelligence Systems: Challenges and Solutions", is accepted by <strong>IEEE Consumer Electronics Magazine</strong>! </li>
 <li><strong>[Sep. 2024]</strong> Our paper, "FL-Joint: Joint Aligning Features and Labels in Federated Learning for Data Heterogeneity", is accepted by <strong>Complex & Intelligent System</strong>! Congratulations to Wenxin! </li>

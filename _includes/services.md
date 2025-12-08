@@ -16,6 +16,7 @@
 <ul style="margin:0 0 20px;">
   <li><a href="https://dl.acm.org/journal/imwut"> ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)</a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755">IEEE Transactions on Mobile Computing (TMC)</a></li>
+  <li><a href="https://dblp.uni-trier.de/db/journals/tsc/index.html">IEEE Transactions on Services Computing (TSC)</a></li>
   <li><a href="https://ieee-iotj.org/">IEEE Internet of Things Journal (IoT-J)</a></li>
   <li><a href="https://link.springer.com/journal/11554">Journal of Real-Time Image Processing</a></li>
 </ul>
