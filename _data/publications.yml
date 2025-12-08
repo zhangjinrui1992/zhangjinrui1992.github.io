@@ -15,7 +15,7 @@ main:
     pdf: https://arxiv.org/abs/2511.07427
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: none
-    image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/DynaKV.png
+    image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/Dynakv.png
 
   - title: "LLM-Driven Self-Refinement for Embodied Drone Task Planning"
     authors: Deyu Zhang, Xicheng Zhang, Jiahao Li, Tingting Long, Xunhua Dai, Yongjian Fu, <strong><u>Jinrui Zhang</u>*</strong>, Ju Ren, Yaoxue Zhang. 
