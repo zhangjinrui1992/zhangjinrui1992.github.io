@@ -1,4 +1,13 @@
 main:
+  - title: "SRDrone: LLM-Driven Self-Refinement for Embodied Drone Task Planning"
+    authors: Deyu Zhang, Xicheng Zhang, Jiahao Li, Tingting Long, Xunhua Dai, Yongjian Fu, <strong><u>Jinrui Zhang</u>*</strong>, Ju Ren, Yaoxue Zhang. 
+    conference_short: TMC
+    conference: IEEE Transactions on Mobile Computing (<span style="color:red">CCF A</span>), 2026
+    pdf: http://arxiv.org/abs/2508.15501
+    #code: https://github.com/Fischer-Tom/iNeMo
+    bibtex: none
+    image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/pipeline.png
+
   - title: "EarAuth: Towards Practical Cardiac Vibration Authentication on COTS Wireless Earbuds"
     authors: Yongjian Fu, Wenpeng Zhu, Yingjun Wu, Hao Pan, Yizhe Zhao, Guanbo Wang, <strong><u>Jinrui Zhang</u></strong>, Li Li, Yongheng Deng, Yaoxue Zhang, Ju Ren.
     conference_short: INFOCOM
@@ -16,15 +25,6 @@ main:
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: none
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/Dynakv.png
-
-  - title: "LLM-Driven Self-Refinement for Embodied Drone Task Planning"
-    authors: Deyu Zhang, Xicheng Zhang, Jiahao Li, Tingting Long, Xunhua Dai, Yongjian Fu, <strong><u>Jinrui Zhang</u>*</strong>, Ju Ren, Yaoxue Zhang. 
-    conference_short: arXiv
-    conference: arXiv, 2025 
-    pdf: http://arxiv.org/abs/2508.15501
-    #code: https://github.com/Fischer-Tom/iNeMo
-    bibtex: none
-    image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/pipeline.png
 
   - title: "Prompt-aware of Frame Sampling for Efficient Text-Video Retrieval"
     authors: Deyu Zhang, Tingting Long, <strong><u>Jinrui Zhang</u>*</strong>, Ligeng Chen, Ju Ren, Yaoxue Zhang.
