@@ -11,7 +11,7 @@ main:
   - title: "EarAuth: Towards Practical Cardiac Vibration Authentication on COTS Wireless Earbuds"
     authors: Yongjian Fu, Wenpeng Zhu, Yingjun Wu, Hao Pan, Yizhe Zhao, Guanbo Wang, <strong><u>Jinrui Zhang</u></strong>, Li Li, Yongheng Deng, Yaoxue Zhang, Ju Ren.
     conference_short: INFOCOM
-    conference: IEEE INFOCOM, 2026 
+    conference: IEEE INFOCOM (<span style="color:red">CCF A</span>), 2026 
     #pdf: https://arxiv.org/abs/2511.07427
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: none
