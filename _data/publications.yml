@@ -3,7 +3,7 @@ main:
     authors: Deyu Zhang, Xicheng Zhang, <strong><u>Jinrui Zhang</u>*</strong>, Jiahao Li, Tingting Long, Xunhua Dai, Yongjian Fu,  Ju Ren, Yaoxue Zhang. 
     conference_short: TMC
     conference: IEEE Transactions on Mobile Computing (<span style="color:red">CCF A</span>), 2026
-    pdf: http://arxiv.org/abs/2508.15501
+    pdf: https://ieeexplore.ieee.org/document/11397206
     #code: https://github.com/Fischer-Tom/iNeMo
     bibtex: none
     image: https://github.com/zhangjinrui1992/zhangjinrui1992.github.io/raw/main/_data/image/pipeline.png
