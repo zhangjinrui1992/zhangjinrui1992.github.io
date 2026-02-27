@@ -17,12 +17,14 @@ I earned my B.Sc., M.Sc., Ph.D. degrees all in computer science, from [Central S
 <!--
 <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am actively looking for self-motivated Ph.D. students with interests in computer vision and machine learning. If you are interested, please send me an email.</strong></strong>, co-advised by [Prof. Ju Ren](https://juren1987.github.io/) and [Prof. Deyu Zhang](https://deyujonney.github.io/deyu/) advised by [Prof. Ju Ren](https://juren1987.github.io/) , working with [Prof. Youngki Lee](http://youngkilee.blogspot.com/) , mentored by [Prof. Yunxin Liu](https://yunxinliu.github.io/)My resume is here. [[Chinese version]](./resume_ch.pdf) / [[English version]](./resume_EN.pdf)
 -->
+
+
+{% include_relative _includes/news.md %}
+
+{% include_relative _includes/contact.md %}
+
 {% if site.enable_visitor_counter %}
 <div align="center" style="margin-top: 20px;">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fzjr.eis.mobi&count_bg=%231a73e8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Daily+/+Total+Visits&edge_flat=false" alt="Visitor Counter" />
 </div>
 {% endif %}
-
-{% include_relative _includes/news.md %}
-
-{% include_relative _includes/contact.md %}

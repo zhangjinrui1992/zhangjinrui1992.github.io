@@ -7,7 +7,7 @@ affiliation: Central South University
 # affiliation: Tsinghua University
 affiliation_link: https://www.csu.edu.cn/
 affiliation_logo: ./assets/img/svg.svg
-email: zhangjinrui (at) csu (dot) edu (dot) cn
+email: zhangjinrui@csu.edu.cn
 
 # ==============================================================================
 # Search Engine Optimization (SEO / 搜索引擎优化)
@@ -30,7 +30,7 @@ link_type: icon # 选项: text / icon
 google_scholar: https://scholar.google.com/citations?user=u3HAVnkAAAAJ
 github_link: https://github.com/zhangjinrui1992
 linkedin: https://www.linkedin.com/in/zhang-jinrui-147357192/
-# twitter: https://twitter.com/YaoyaoLiu1/
+
 
 # ==============================================================================
 # Images (图片与图标)
