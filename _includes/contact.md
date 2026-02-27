@@ -1,12 +1,12 @@
 <h2 style="margin: 60px 0px 10px;">Contact</h2>
 
-<p><strong>Address:</strong> <a href="https://maps.app.goo.gl/WpiFuAgFpjMsLqfG8"> Tsinghua University, Beijing, 100084, China </a>
+<p><strong>Address:</strong> <a href="https://maps.app.goo.gl/ZT5SSLEBqf6HmE897"> Central South University, Changsha, 400083, China </a>
 <br />
 
-<strong>Office Location:</strong> FIT Building 3529
+<strong>Office Location:</strong> Room 405, Comprehensive Laboratory Building, Xiaoxiang Campus
 <br />
 
-<strong>Email:</strong> <email>jinruizhang (at) tsinghua.edu.cn</email> </p>
+<strong>Email:</strong> <email>zhangjinrui (at) csu (dot) edu (dot) cn</email> </p>
 
 
 
