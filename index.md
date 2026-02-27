@@ -22,9 +22,3 @@ I earned my B.Sc., M.Sc., Ph.D. degrees all in computer science, from [Central S
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/contact.md %}
-
-{% if site.enable_visitor_counter %}
-<div align="center" style="margin-top: 20px;">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fzjr.eis.mobi&count_bg=%231a73e8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Daily+/+Total+Visits&edge_flat=false" alt="Visitor Counter" />
-</div>
-{% endif %}
