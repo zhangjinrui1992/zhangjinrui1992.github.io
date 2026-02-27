@@ -1,44 +1,63 @@
-# Basic Information 
+# ==============================================================================
+# Basic Information (基本信息)
+# ==============================================================================
 title: Jinrui Zhang
 position: Professor
 affiliation: Central South University
-#affiliation: Tsinghua University
+# affiliation: Tsinghua University
 affiliation_link: https://www.csu.edu.cn/
 affiliation_logo: ./assets/img/svg.svg
 email: zhangjinrui (at) csu (dot) edu (dot) cn
-# Search Engine Optimization (SEO)
+
+# ==============================================================================
+# Search Engine Optimization (SEO / 搜索引擎优化)
+# ==============================================================================
 keywords: jinrui zhang, zhang jinrui, jinruizhang, zhangjinrui
 canonical: https://zjr.eis.mobi/
 description: Jinrui Zhang is a Professor at Central South University. His research lies in Internet-of-Things, edge computing, and embedded AI.
 
-# The option is used to enable the Johns Hopkins template.
-enable_hopkins_logo: false
+# ==============================================================================
+# Theme Settings (主题设置)
+# ==============================================================================
+enable_hopkins_logo: false  # 是否启用 Johns Hopkins 模板标志
+enable_last_update: false   # 是否显示最后更新时间
 
-# The option is used to show the last update time.
-enable_last_update: false
-
-# Links
-link_type: icon #text/icon
-google_scholar: https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F5MvoFmLVLXZMSFzvwEBIwAgihn9GhFtv6ehrFpi2HR71CIRY2g-5Qb79dTN6iXSI4U-Bt7siFW9-Su20JJtvFSsfXpzHYzf3MlAzNEc2tCvlAHC7k&user=u3HAVnkAAAAJ
+# ==============================================================================
+# Links (社交与学术链接)
+# ==============================================================================
+link_type: icon # 选项: text / icon
+# Google Scholar 链接已精简，去除了无效的追踪参数，只保留了核心的 user ID
+google_scholar: https://scholar.google.com/citations?user=u3HAVnkAAAAJ
 github_link: https://github.com/zhangjinrui1992
 linkedin: https://www.linkedin.com/in/zhang-jinrui-147357192/
-#twitter: https://twitter.com/YaoyaoLiu1/
+# twitter: https://twitter.com/YaoyaoLiu1/
 
-# Images 
+# ==============================================================================
+# Images (图片与图标)
+# ==============================================================================
 avatar: ./assets/img/zjr3.png
 # favicon: ./assets/img/favicon.ico
 favicon_dark: ./assets/img/zjricon1.png
 
-# Footnotes
-#footnote: Feel free to use my website's source code.
-#footnote_link: https://github.com/yaoyao-liu/minimal-light
+# ==============================================================================
+# Footnotes (页脚设置)
+# ==============================================================================
+# footnote: Feel free to use my website's source code.
+# footnote_link: https://github.com/yaoyao-liu/minimal-light
 
-# Analytics
-# Please remove the following lines about analytics services if you fork my project. 
-# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
+# ==============================================================================
+# Analytics & Visitor Counter (数据分析与访问统计)
+# ==============================================================================
+# ClustrMaps 全球访客地图（已保留你原本的ID）
 clustrmaps_id: KuVvcKrCR85p8hLxZIjcQBNa2wFlHXwpNpa1YN0AgWw
 
-# The following files will be removed from the generated website.
+# [新增] 页面日访问量与访客数统计开关 (需要在页面中添加对应代码，见下方说明)
+enable_visitor_counter: true
+
+# ==============================================================================
+# Build Settings (构建排除项)
+# ==============================================================================
+# 以下文件在生成静态网站时会被排除
 exclude:
   - build.sh
   - Gemfile
